@@ -170,7 +170,7 @@ function Navbar() {
       <NavContainer>
         <NavLogo to="/">
           {" "}
-          <a
+          <div
             style={{
               display: "flex",
               alignItems: "center",
@@ -180,7 +180,7 @@ function Navbar() {
             }}
           >
             <DiCssdeck size="3rem" /> <Span>Portfolio</Span>
-          </a>
+          </div>
         </NavLogo>
         <MobileIcon>
           <FaBars
