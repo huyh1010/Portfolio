@@ -24,10 +24,10 @@
 
 • This application serves as a portfolio to showcase my works, skills, and achievements. It provides an overview about my personal information, my personal projects, programming language and extension skills, and contact information.
 
-![Screenshot 2023-08-28 175126](https://github.com/huyh1010/Portfolio/assets/117617750/c6e7ad8f-fed0-4fa2-a06b-7eb64f42b89a)
+![Screenshot 2023-08-28 175048](https://github.com/huyh1010/Portfolio/assets/117617750/ed250c99-d7ec-45ce-b07a-9eb4fe170062)
 ![Screenshot 2023-08-28 175115](https://github.com/huyh1010/Portfolio/assets/117617750/677568f2-db4a-437c-8773-11cc8be9f3ed)
 ![Screenshot 2023-08-28 175105](https://github.com/huyh1010/Portfolio/assets/117617750/9e5fba0a-84b2-4819-8e3d-313d2452fafe)
-![Screenshot 2023-08-28 175048](https://github.com/huyh1010/Portfolio/assets/117617750/ed250c99-d7ec-45ce-b07a-9eb4fe170062)
+![Screenshot 2023-08-28 175126](https://github.com/huyh1010/Portfolio/assets/117617750/c6e7ad8f-fed0-4fa2-a06b-7eb64f42b89a)
 ![Screenshot 2023-08-28 175135](https://github.com/huyh1010/Portfolio/assets/117617750/85fac7d0-6923-4ce2-9ee5-4c878ec315bd)
 
 ## <a name="features">Webpage Highlight</a>
